@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/website?label=andrDEv.com&style=for-the-badge&url=https://www.linkedin.com/in/ayush-jain-654617145/)](https://www.linkedin.com/in/ayush-jain-654617145/)
 [![Twitter](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ayushja47958258)
-[![Youtube](https://img.shields.io/twitter/follow/andrDEv?color=1DA1F2&logo=youtubet&style=for-the-badge)](https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA)
+[![Youtube](https://img.shields.io/twitter/follow/andrDEv?color=DC143C&logo=youtubet&style=for-the-badge)](https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA)
 
 ## I'm a Son, Fresher, Developer, and Learner!!
 
@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />]
 [<img align="left" alt="Kotlin" width="26px"  src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />]
 [<img align="left" alt="Firebase" width="26px"  src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />]
@@ -40,8 +40,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br/>
-<br/>
+
 
 [twitter]: https://twitter.com/Ayushja47958258
 [youtube]: https://www.youtube.com/channel/UCDCMmWvMw4ScZ1HiP4F4InA

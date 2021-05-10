@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Android Studio" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" />]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />]
 [<img align="left" alt="Java" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />]
 [<img align="left" alt="Kotlin" width="26px"  src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" />]
 [<img align="left" alt="Firebase" width="26px"  src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />]
